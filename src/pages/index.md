@@ -1,10 +1,10 @@
 ---
 title: Getting started
-pageTitle: CacheAdvance - Never miss the cache again.
-description: Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.
+pageTitle: ReCT Documentation
+description: Write code the way you like it!
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Learn how to write in the new programming language called ReCT. {% .lead %}
 
 {% link-grid %}
 
