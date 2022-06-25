@@ -122,3 +122,13 @@ Will launch the application at the given path with the given arguments in a sepa
 #### LaunchApplicationWithOutput()
 
 Will launch the application at the given path with the given arguments in a separate process and will wait until it is done, after that it returns the processes output as a string.
+
+## Math
+
+## IO
+
+## Net
+
+## Web
+
+## Audio
