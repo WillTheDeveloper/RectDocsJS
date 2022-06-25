@@ -8,7 +8,7 @@ Learn how to write in the new programming language called ReCT. {% .lead %}
 
 {% link-grid %}
 
-{% link-grid-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% link-grid-link title="Installation" icon="installation" href="/docs/installation" description="Step-by-step guides to setting up your system and installing the library." /%}
 
 {% link-grid-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
 
