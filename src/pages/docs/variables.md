@@ -49,3 +49,14 @@ set variable <- "this is a global var";
 ```
 
 (the same Datatype setting applies here too)
+
+## Virtual variables
+
+Virtual Variables are Variables that can be defined in Abstract Classes and can be overwritten in Inheriting Classes. 
+A Variable can be made virtual by using the "virt" keyword. (NOTE: Only public variables are allowed to be virtual)
+
+```
+virt set someVariable <- 0;
+```
+
+You can find more info on overwriting on the Inheriting Classes Docs Article.
