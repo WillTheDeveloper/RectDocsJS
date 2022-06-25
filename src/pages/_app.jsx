@@ -23,12 +23,14 @@ const navigation = [
       { title: 'Data types', href: '/docs/datatypes'},
       { title: 'If statements', href: '/docs/if-statements'},
       { title: 'Loops', href: '/docs/loops'},
-      { title: 'Functions', href: '/docs/functions'}
+      { title: 'Functions', href: '/docs/functions'},
+      { title: 'Casts', href: '/docs/casts'}
     ],
   },
   {
     title: 'Advanced concepts',
     links: [
+      { title: 'System packages', href: '/docs/system-packages'},
       { title: 'Threading', href: '/docs/threading' },
       { title: 'Exception handlers', href: '/docs/exception-handlers' },
       { title: 'Lambda', href: '/docs/lambda'},
