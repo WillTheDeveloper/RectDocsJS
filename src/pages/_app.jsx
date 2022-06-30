@@ -22,6 +22,7 @@ const navigation = [
       { title: 'Variables', href: '/docs/variables' },
       { title: 'Data types', href: '/docs/datatypes'},
       { title: 'If statements', href: '/docs/if-statements'},
+      { title: 'Operators', href : '/docs/operators'},
       { title: 'Loops', href: '/docs/loops'},
       { title: 'Functions', href: '/docs/functions'},
       { title: 'Casts', href: '/docs/casts'},
