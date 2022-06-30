@@ -32,6 +32,7 @@ const navigation = [
     links: [
       { title: 'Classes', 'href': '/docs/classes'},
       { title: 'System packages', href: '/docs/system-packages'},
+      { title: 'Packages', href: '/docs/packages'},
       { title: 'Threading', href: '/docs/threading' },
       { title: 'Exception handlers', href: '/docs/exception-handlers' },
       { title: 'Lambda', href: '/docs/lambda'},
