@@ -27,6 +27,7 @@ const navigation = [
       { title: 'Functions', href: '/docs/functions'},
       { title: 'Casts', href: '/docs/casts'},
       { title: 'Accessing objects', href: '/docs/access-objects'},
+      { title: 'Enums', href: '/docs/enums'},
     ],
   },
   {
