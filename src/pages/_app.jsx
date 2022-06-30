@@ -25,6 +25,7 @@ const navigation = [
       { title: 'Loops', href: '/docs/loops'},
       { title: 'Functions', href: '/docs/functions'},
       { title: 'Casts', href: '/docs/casts'},
+      { title: 'Accessing objects', href: '/docs/access-objects'},
     ],
   },
   {
