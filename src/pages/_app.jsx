@@ -24,12 +24,13 @@ const navigation = [
       { title: 'If statements', href: '/docs/if-statements'},
       { title: 'Loops', href: '/docs/loops'},
       { title: 'Functions', href: '/docs/functions'},
-      { title: 'Casts', href: '/docs/casts'}
+      { title: 'Casts', href: '/docs/casts'},
     ],
   },
   {
     title: 'Advanced concepts',
     links: [
+      { title: 'Classes', 'href': '/docs/classes'},
       { title: 'System packages', href: '/docs/system-packages'},
       { title: 'Threading', href: '/docs/threading' },
       { title: 'Exception handlers', href: '/docs/exception-handlers' },
