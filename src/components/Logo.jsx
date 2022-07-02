@@ -8,7 +8,7 @@ export function Logo() {
         width={30}
         height={30}
         src={rectImage} />
-      <h1 className="ml-2 text-2xl font-bold">Rect Language</h1>
+      <h1 className="ml-2 hidden lg:block text-md font-bold">Rect Language</h1>
     </div>
   )
 }
