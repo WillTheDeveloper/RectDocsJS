@@ -12,7 +12,7 @@ const navigation = [
     links: [
       { title: 'Getting started', href: '/' },
       { title: 'Installation', href: '/docs/installation' },
-      { title: 'Setting up a project', href: '/docs/setting-up-a-project'},
+      { title: 'Setting up a project', href: '/docs/setting-up-a-project' },
       { title: 'Hello world', href: '/docs/hello-world'}
     ],
   },
